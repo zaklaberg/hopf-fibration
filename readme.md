@@ -2,7 +2,7 @@
 
 # How to run
 
-`npm i, npm run start`
+`npm i; npm run start`
 app runs on localhost:8080 by default
 
 # What's happening?

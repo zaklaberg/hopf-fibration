@@ -1,4 +1,5 @@
 # Visualization of the Hopf fibration
+![Two partial fibers with projections](https://github.com/ethq/hopf-fibration/blob/master/img/partial-torii.png)
 
 # How to run
 
@@ -26,5 +27,3 @@ In the lower left the 2-sphere is shown. Each point on the 2-sphere can be mappe
 - Press 'a' to create a ring on the 2-sphere. Theta should be between approximately -1.57 and 1.57. See how its projection is a torus.
 - Press 'a' and create two rings. Pick opposite values for theta, and see how the torii are also linked.
 - Press 'a' and create two rings, one with theta ~ 0, one with theta ~ +- 1.5. The size of the projected torii increases as the points on the 2-sphere approach a pole.
-
-![Two partial fibers with projections](https://github.com/ethq/hopf-fibration/blob/master/img/partial-torii.png)
